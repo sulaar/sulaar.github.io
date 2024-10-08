@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sulaar.github.io/MaK/sitemap.MaK.gz
